@@ -1,4 +1,4 @@
-[![Arman](https://github.com/Arman0212/Arman0212/raw/main/hero-residual.svg)](https://github.com/Arman0212/Arman0212/blob/main/hero-residual.svg)
+[![Arman](https://github.com/Arman0212/Arman0212/raw/main/hero-firing.svg)](https://github.com/Arman0212/Arman0212/blob/main/hero-firing.svg)
 
 [linkedin](https://www.linkedin.com/in/arman-sahni-a8947b314) · [email](mailto:Armaansahni54@gmail.com)
 
