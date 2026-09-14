@@ -1,0 +1,61 @@
+[![Arman](https://github.com/Arman0212/Arman0212/raw/main/hero.svg)](https://github.com/Arman0212/Arman0212/blob/main/hero.svg)
+
+[linkedin](LINKEDIN_URL_HERE) · [email](mailto:YOUR_EMAIL_HERE)
+
+[![about](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
+
+> YOUR_DEGREE at YOUR_COLLEGE.
+> Physics first, learning second, and a number that says when to stop.
+
+I work on systems where a model has to agree with physics before anyone is
+allowed to trust it. Both of the things below are decision support for people
+who carry the consequences — a bridge team, a maintenance crew — so the
+interesting question is never how good the model looks, it's what it is
+honestly entitled to claim.
+
+[![stack](https://github.com/Arman0212/Arman0212/raw/main/hd-stack.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-stack.svg)
+
+`python numpy xarray pytorch postgres timescaledb docker git linux`
+
+[![projects](https://github.com/Arman0212/Arman0212/raw/main/hd-projects.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-projects.svg)
+
+**[UAV-EngineTwin](https://github.com/Arman0212/UAV-EngineTwin)** · `python, timescaledb`
+Real-time digital twin for the aero piston engines in MALE UAVs: mean-value
+engine model, residual-based fault diagnosis, remaining-useful-life prediction.
+A hard firewall keeps ground truth out of every runtime role, so the diagnosis
+can never quietly read the answer.
+
+**antarctic-routing** · `python, xarray`
+Vessel routing for the Southern Ocean. Sea-ice concentration forecasting on the
+full NSIDC passive-microwave record since 1979, a momentum-balance iceberg drift
+model, and A\* search costed by the IMO Polar Code POLARIS risk framework.
+Decision support for a bridge team, not an autonomous router.
+
+[![stats](https://github.com/Arman0212/Arman0212/raw/main/hd-stats.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-stats.svg)
+
+[![Current and longest streak](https://github.com/Arman0212/Arman0212/raw/main/streak.svg)](https://github.com/Arman0212/Arman0212/blob/main/streak.svg)
+
+[![Top languages by bytes](https://github.com/Arman0212/Arman0212/raw/main/langs.svg)](https://github.com/Arman0212/Arman0212/blob/main/langs.svg)
+
+[![The last year, one character per day](https://github.com/Arman0212/Arman0212/raw/main/year.svg)](https://github.com/Arman0212/Arman0212/blob/main/year.svg)
+
+[![how this page is drawn](https://github.com/Arman0212/Arman0212/raw/main/hd-colophon.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-colophon.svg)
+
+Every graphic here is generated in this repository, not embedded from someone
+else's badge service. The stat panels are drawn once a day by
+[a scheduled action](https://github.com/Arman0212/Arman0212/blob/main/.github/workflows/stats.yml)
+straight from the GitHub GraphQL API, committing only what changed, so nothing
+on this page can rate-limit or go dark.
+
+The headings are images because GitHub strips CSS from READMEs — an image is the
+only way to put the page's own palette on them. Colour follows
+`prefers-color-scheme` from inside each SVG, which still applies when the file
+is loaded as an `<img>`. Every glyph is placed at an explicit x coordinate
+rather than flowed as a line of text, so the grid holds even if the viewer's
+default monospace is narrower than the one this was drawn against.
+
+The field at the top is a Southern Ocean ice edge pushed through the character
+ramp `.` `:` `+` `*` `#` `@`, quiet to loud — the same ramp the year strip uses.
+It is procedural and deterministic, not real forecast output; the route across
+it is the actual gate-to-station track the routing work targets. Language totals
+cover public, non-fork repositories only.
