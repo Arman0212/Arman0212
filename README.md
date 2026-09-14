@@ -34,12 +34,12 @@ engine model, residual-based fault diagnosis, remaining-useful-life prediction.
 A hard firewall keeps ground truth out of every runtime role, so the diagnosis
 can never quietly read the answer.
 
-**Antarctic vessel routing** · `python, xarray` · in progress
-Sea-ice concentration forecasting on the full NSIDC passive-microwave record
-since 1979, a momentum-balance iceberg drift model, and A\* search costed by the
-IMO Polar Code POLARIS risk framework. Decision support for a bridge team, not
-an autonomous router. Each component is gated on a validated skill number
-before the next one starts, which is why this isn't public yet.
+**[CryoNav](https://github.com/Arman0212/CryoNav)** · `python, xarray`
+Vessel routing for the Southern Ocean. Sea-ice concentration forecasting on the
+full NSIDC passive-microwave record since 1979, a momentum-balance iceberg drift
+model, and A\* search costed by the IMO Polar Code POLARIS risk framework.
+Decision support for a bridge team, not an autonomous router — every component
+gated on a validated skill number before the next one starts.
 
 [![stats](https://github.com/Arman0212/Arman0212/raw/main/hd-stats.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-stats.svg)
 
