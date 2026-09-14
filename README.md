@@ -1,8 +1,8 @@
 [![Arman](https://github.com/Arman0212/Arman0212/raw/main/hero-firing.svg)](https://github.com/Arman0212/Arman0212/blob/main/hero-firing.svg)
 
-[linkedin](https://www.linkedin.com/in/arman-sahni-a8947b314) · [email](mailto:Armaansahni54@gmail.com)
+[Linkedin](https://www.linkedin.com/in/arman-sahni-a8947b314) · [Email](mailto:Armaansahni54@gmail.com)
 
-[![about](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
+[![About](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
 
 
 Can't leave a thing alone once I know it's wrong. Have deleted working builds
