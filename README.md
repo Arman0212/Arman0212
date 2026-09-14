@@ -5,16 +5,7 @@
 [![About](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
 
 
-Can't leave a thing alone once I know it's wrong. Have deleted working builds
-because I couldn't defend how they got their answer. `git revert` is not an
-admission of failure.
-
-Every project so far has dropped me into a field I had no business being in.
-Read until it stops being opaque, ship the smallest version that can fail, let
-it tell me what I broke. Repeat.
-
-Want to be the dumbest person in the room, often.
-
+Aspiring Software Engineer passionate about problem-solving, C++, and continuous learning. Currently exploring Data Structures & Algorithms, Web Development, and AI.
 
 Open to internships, full-time roles, and research positions.
 
