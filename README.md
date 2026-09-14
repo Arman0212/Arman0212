@@ -1,10 +1,9 @@
 [![Arman](https://github.com/Arman0212/Arman0212/raw/main/hero.svg)](https://github.com/Arman0212/Arman0212/blob/main/hero.svg)
 
-[linkedin](LINKEDIN_URL_HERE) · [email](mailto:YOUR_EMAIL_HERE)
+[linkedin](https://www.linkedin.com/in/arman-sahni-a8947b314) · [email](mailto:Armaansahni54@gmail.com)
 
 [![about](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
 
-> YOUR_DEGREE at YOUR_COLLEGE.
 > Physics first, learning second, and a number that says when to stop.
 
 I work on systems where a model has to agree with physics before anyone is
