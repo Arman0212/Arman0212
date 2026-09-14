@@ -4,17 +4,27 @@
 
 [![about](https://github.com/Arman0212/Arman0212/raw/main/hd-about.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-about.svg)
 
-> Physics first, learning second, and a number that says when to stop.
 
-I work on systems where a model has to agree with physics before anyone is
-allowed to trust it. Both of the things below are decision support for people
-who carry the consequences — a bridge team, a maintenance crew — so the
-interesting question is never how good the model looks, it's what it is
-honestly entitled to claim.
+Can't leave a thing alone once I know it's wrong. Have deleted working builds
+because I couldn't defend how they got their answer. `git revert` is not an
+admission of failure.
+
+Every project so far has dropped me into a field I had no business being in.
+Read until it stops being opaque, ship the smallest version that can fail, let
+it tell me what I broke. Repeat.
+
+Want to be the dumbest person in the room, often.
+
+
+Open to internships, full-time roles, and research positions.
 
 [![stack](https://github.com/Arman0212/Arman0212/raw/main/hd-stack.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-stack.svg)
 
-`python numpy xarray pytorch postgres timescaledb docker git linux`
+`python` · `numpy` `pandas` `xarray` · `scipy` `scikit-learn` `pytorch`
+`postgres` `timescaledb` · `docker` `git` `linux`
+
+Geospatial: `rasterio` `pyproj` `netcdf4`, on polar stereographic grids.
+Data: ERA5, CMEMS GLORYS, NSIDC passive microwave, GEBCO bathymetry.
 
 [![projects](https://github.com/Arman0212/Arman0212/raw/main/hd-projects.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-projects.svg)
 
@@ -24,11 +34,12 @@ engine model, residual-based fault diagnosis, remaining-useful-life prediction.
 A hard firewall keeps ground truth out of every runtime role, so the diagnosis
 can never quietly read the answer.
 
-**antarctic-routing** · `python, xarray`
-Vessel routing for the Southern Ocean. Sea-ice concentration forecasting on the
-full NSIDC passive-microwave record since 1979, a momentum-balance iceberg drift
-model, and A\* search costed by the IMO Polar Code POLARIS risk framework.
-Decision support for a bridge team, not an autonomous router.
+**Antarctic vessel routing** · `python, xarray` · in progress
+Sea-ice concentration forecasting on the full NSIDC passive-microwave record
+since 1979, a momentum-balance iceberg drift model, and A\* search costed by the
+IMO Polar Code POLARIS risk framework. Decision support for a bridge team, not
+an autonomous router. Each component is gated on a validated skill number
+before the next one starts, which is why this isn't public yet.
 
 [![stats](https://github.com/Arman0212/Arman0212/raw/main/hd-stats.svg)](https://github.com/Arman0212/Arman0212/blob/main/hd-stats.svg)
 
